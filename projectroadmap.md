@@ -8,8 +8,8 @@
 - [x] Follow tutorial three and test code again
 - [ ] Add personal touch to code
 - [x] Create Sprint 3 PowerPoint slide
-- [ ] Add notes to code
+- [x] Add notes to code
 - [x] Continue presentation
-- [ ] Complete presentation
+- [x] Complete presentation
 
 
